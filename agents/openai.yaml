@@ -1,0 +1,6 @@
+interface:
+  display_name: "zodex literature"
+  short_description: "面向艺术人文与社科的文献检索、Zotero精读、证据核验与综述工作流"
+  default_prompt: "使用 $zodex-literature 开展或继续我的文献研究，复用已有参数和记录，只补充缺失信息，并执行本次指定阶段。"
+policy:
+  allow_implicit_invocation: true
